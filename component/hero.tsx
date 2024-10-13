@@ -36,7 +36,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="col">
-            <div className="feature-item1">
+            <div className="feature-item">
               <Image src="/tabler_messages.png" alt="Messaging Icon" width={65} height={65} style={{ marginRight: -200, marginLeft: 100 }}/>
               <div className="feature-text">
                 <h2>Messaging</h2>
@@ -45,7 +45,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="col">
-            <div className="feature-item2">
+            <div className="feature-item">
               <Image src="/rocket.png" alt="Payments Icon" width={65} height={65} style={{ marginRight: -180, marginLeft: 50}}/>
               <div className="feature-text">
                 <h2>Payments</h2>
